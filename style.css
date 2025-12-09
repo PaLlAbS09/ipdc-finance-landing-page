@@ -394,6 +394,12 @@ nav,
   margin-bottom: 16px;
   font-family: var(--font-MetroPolis);
 }
+.footer-heading-f{
+   font-size: 14px;
+  font-family: Metropolis-bold, sans-serif;
+  margin-bottom: 20px;
+  color: var(--color-black);
+}
 .footer-heading {
   font-size: 14px;
   font-family: Metropolis-bold, sans-serif;
@@ -516,6 +522,15 @@ nav,
     margin: 0;
     max-width: 100%;
   }
+  .footer-heading-f{
+    margin-right: 552px;
+  }
+}
+@media screen and (max-width: 676px) {
+  .footer-heading-f{
+    margin-right: 440px;
+  }
+  
 }
 @media screen and (max-width: 576px) {
 
@@ -530,5 +545,8 @@ nav,
 
   .customer-experience-sec {
     padding: 40px 0;
+  }
+  .footer-heading-f{
+    margin-right: 350px;
   }
 }

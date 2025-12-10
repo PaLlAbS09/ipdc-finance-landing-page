@@ -2,8 +2,8 @@
 
 A responsive landing page designed from a Figma UI and built using **HTML & CSS**.
 
-🔗 **Live Demo:** https://your-live-link-here  
-(Replace with your hosted link)
+🔗 **Live Demo:** [(https://pallabs09.github.io/ipdc-finance-landing-page/)] 
+
 
 ## Features
 - Clean and modern UI  
